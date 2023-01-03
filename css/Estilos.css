@@ -1,11 +1,7 @@
 body
 {
-<<<<<<< HEAD
-color :#333;
-=======
-color : red;
->>>>>>> cabecera
-text-align: left;
+color : #333
+text-align: center;
 font-family: Arial;
 front size: 16px;
 margin: 0;
@@ -45,4 +41,12 @@ padding: 0;
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.8em;  
 }
