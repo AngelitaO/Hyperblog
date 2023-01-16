@@ -10,4 +10,8 @@ Un blog increible para el  [curso de git y github](http://https://platzi.com/cur
 *Trucos muy locos del profesor
 *Las personalidades multiples de Freddy
 
+creado por el increible Platzi Team
+*Creado por el increible platzi team que le enseñan a Angela como se maneja Git y Github 
+
+
 y como un amable recordatorio: **este readme.md es un chiste**. Diseñado pora el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.**[A ver el curso**](http://https://platzi.com/cursos/git-github/ "A ver el curso").
