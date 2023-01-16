@@ -14,4 +14,8 @@ creado por el increible Platzi Team
 *Creado por el increible platzi team que le enseñan a Angela como se maneja Git y Github 
 
 
+creado por el increible Platzi Team
+*Creado por el increible platzi team que le enseñan a Angela como se maneja Git y Github 
+*Incluye ejemplos en Windosw, Linux y Mac 
+*Dispoonible para todas las edades 
 y como un amable recordatorio: **este readme.md es un chiste**. Diseñado pora el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.**[A ver el curso**](http://https://platzi.com/cursos/git-github/ "A ver el curso").
